@@ -2,7 +2,7 @@
 
 Implement **CNN** model with **`keras`** on **MNIST** dataset (70,000 examples of handwritten english digits)
 
-Load dataset whit `fetch_openml`
+Load dataset with `fetch_openml`
 
 Get input image and preprocess it with **`OpenCV`**
 
